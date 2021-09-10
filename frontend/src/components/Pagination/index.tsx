@@ -1,4 +1,3 @@
-import { on } from "cluster";
 import { SalePage } from "types/sale";
 
 type Props = {
