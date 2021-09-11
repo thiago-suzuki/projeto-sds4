@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 🌎	[Clique aqui para acessar o site do dashboard](https://dsvendas-thiago-suzuki.netlify.app/dashboard)
+## 🌎	[Clique aqui para acessar o site do dashboard](https://dsvendas-thiago-suzuki.netlify.app)
 
 <br>
 
